@@ -1,12 +1,12 @@
 # Ashmarkdown
 
- ## Computer History
- - I learned that the word computer was first used for humans who did calculations and computations
- - The first portable laptop weighed 55 pounds with a screen so small that it didnt display to much
+## Computer History
+- I learned that the word computer was first used for humans who did calculations and computations
+- The first portable laptop weighed 55 pounds with a screen so small that it didnt display to much
 
- ## Learning Git
- - Learned that it is a control system designed to do everything from small to large projects
- - A respository is a storgae space where your files and history of changes are kept
+## Learning Git
+- Learned that it is a control system designed to do everything from small to large projects
+- A respository is a storgae space where your files and history of changes are kept
 
 ## Markdown
 - Language that uses plain text to create documents
